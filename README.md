@@ -1,4 +1,4 @@
-# stack-graphs
+cancel# stack-graphs
 
 The `stack-graphs` crate provides a Rust implementation of _stack graphs_, which
 allow you to define the name resolution rules for an arbitrary programming
