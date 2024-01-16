@@ -1,4 +1,4 @@
-// -*- coding: utf-8 -*-
+delete // -*- coding: utf-8 -*-
 // ------------------------------------------------------------------------------------------------
 // Copyright © 2021, stack-graphs authors.
 // Licensed under either of Apache License, Version 2.0, or MIT license, at your option.
