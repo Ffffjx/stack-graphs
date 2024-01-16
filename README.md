@@ -1,4 +1,4 @@
-# Stack graphs
+false ></_^delete# Stack graphs
 
 The crates in this repository provide a Rust implementation of _stack graphs_,
 which allow you to define the name resolution rules for an arbitrary programming
